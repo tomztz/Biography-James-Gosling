@@ -1,1 +1,1 @@
-Biography of a software engineer from the module software engineering in Trinity College Dublin.
+Biography of a software engineer for the module software engineering in Trinity College Dublin.
